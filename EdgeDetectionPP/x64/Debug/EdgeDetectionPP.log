@@ -1,0 +1,7 @@
+﻿  BitmapRawConverter.cpp
+  EasyBMP.cpp
+C:\Users\milos\Desktop\EdgeDetectionPP\EasyBMP.cpp(994,13): warning C4101: 'ZeroWORD': unreferenced local variable
+  main.cpp
+C:\Users\milos\Desktop\EdgeDetectionPP\main.cpp(113,10): warning C4129: 'E': unrecognized character escape sequence
+  Generating Code...
+  EdgeDetectionPP.vcxproj -> C:\Users\milos\Desktop\EdgeDetectionPP\x64\Debug\EdgeDetectionPP.exe
